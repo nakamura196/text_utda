@@ -1,0 +1,11 @@
+RewriteEngine On
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^ index.php [QSA,L]
+
+<FilesMatch "\.ini$">
+    Deny from all
+</FilesMatch>
+
+# Hide files not concerning the user
+RedirectMatch 404 \.(htaccess|htpasswd|ini|log|sh|inc|bak|bkp|sql)$
