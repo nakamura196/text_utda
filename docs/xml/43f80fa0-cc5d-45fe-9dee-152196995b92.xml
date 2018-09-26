@@ -1,7 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
-	schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -14,12 +11,11 @@
                 <funder>東京大学</funder>
             </titleStmt>
             <publicationStmt>
-                <publisher>東京大学学術資産アーカイブ化推進室</publisher>
+                <publisher>The University of Tokyo</publisher>
                 <availability>
-                    <p>
-                        <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons
-                            Attribution 4.0</ref>
-                    </p>
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0
+                    </licence>
                 </availability>
             </publicationStmt>
             <sourceDesc>

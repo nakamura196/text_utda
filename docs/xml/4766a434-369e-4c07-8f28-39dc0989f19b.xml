@@ -10,13 +10,11 @@
                 </respStmt>
             </titleStmt>
             <publicationStmt>
-                <publisher>東京大学学術資産アーカイブ化推進室</publisher>
-                <distributor>The University of Tokyo.</distributor>
+                <publisher>The University of Tokyo</publisher>
                 <availability>
-                    <p>
-                        <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons
-                            Attribution 4.0</ref>
-                    </p>
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0
+                    </licence>
                 </availability>
             </publicationStmt>
             <sourceDesc>

@@ -8,13 +8,13 @@
           <persName>Satoru Nakamura</persName>
           <resp>Text Encoding</resp>
         </respStmt>
-        <funder>東京大学</funder>
       </titleStmt>
       <publicationStmt>
-        <publisher>東京大学</publisher>
+        <publisher>The University of Tokyo</publisher>
         <availability>
-          <licence target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution
-            4.0</licence>
+          <licence target="http://creativecommons.org/licenses/by/4.0/">
+            Creative Commons Attribution 4.0
+          </licence>
         </availability>
       </publicationStmt>
       <sourceDesc>
@@ -26,7 +26,7 @@
     </fileDesc>
   </teiHeader>
   <facsimile>
-    <surfaceGrp facs="https://nakamura196.github.io/gozen/data/hosyo.json">
+    <surfaceGrp facs="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21835/manifest">
       <surface>
         <graphic url="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/22294/full/600,/0/default.jpg"
           n="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21835/canvas/p1"/>
