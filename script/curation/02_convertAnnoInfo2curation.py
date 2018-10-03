@@ -1,9 +1,6 @@
 # -*- coding: utf-8 -*-
 import urllib.request, json
 from bs4 import BeautifulSoup
-from rdflib import URIRef, BNode, Literal, Graph
-from rdflib.namespace import RDF, RDFS, FOAF, XSD
-from rdflib import Namespace
 from hashlib import md5
 import csv
 
@@ -82,12 +79,6 @@ def getInfoFromManifest(url):
 
 flg = True
 page = 1
-
-g = Graph()
-
-ins = "omeka"
-
-outputPath = "data/"+ins+".rdf"
 
 org_canvas = "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25280/canvas/"
 org_label = "捃拾帖 一"
