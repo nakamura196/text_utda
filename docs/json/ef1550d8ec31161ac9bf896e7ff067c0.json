@@ -2292,6 +2292,1187 @@
                     ]
                 },
                 {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25280/canvas/p8#xywh=5017,2719,810,1585",
+                    "@type": "sc:Canvas",
+                    "label": "16-A00-6010-1-46",
+                    "metadata": [
+                        {
+                            "label": "和暦",
+                            "value": "安政5年"
+                        },
+                        {
+                            "label": "西暦コード",
+                            "value": "18580099099"
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "〔御用御多葉粉所葉屋六兵衛店引札〕"
+                        },
+                        {
+                            "label": "版種類",
+                            "value": "木版"
+                        },
+                        {
+                            "label": "数量",
+                            "value": "１枚"
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "10.0×5.0　無類司、国府の印あり"
+                        },
+                        {
+                            "label": "形態分類",
+                            "value": "Ｗ"
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "7"
+                        },
+                        {
+                            "label": "地名",
+                            "value": "不明"
+                        },
+                        {
+                            "label": "所蔵機関（名称）",
+                            "value": "東京大学総合図書館-A00-6010-1-46"
+                        },
+                        {
+                            "label": "年号",
+                            "value": "安政５"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25280/canvas/p8#xywh=4103,2639,940,839",
+                    "@type": "sc:Canvas",
+                    "label": "16-A00-6010-1-47",
+                    "metadata": [
+                        {
+                            "label": "和暦",
+                            "value": "安政5年"
+                        },
+                        {
+                            "label": "西暦コード",
+                            "value": "18580099099"
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "〔オランダ語印章〕"
+                        },
+                        {
+                            "label": "数量",
+                            "value": "１枚"
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "4.8×5.5　立っているライオン図とNAHLの４アルファベットあり"
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "3"
+                        },
+                        {
+                            "label": "地名",
+                            "value": "外国"
+                        },
+                        {
+                            "label": "所蔵機関（名称）",
+                            "value": "東京大学総合図書館-A00-6010-1-47"
+                        },
+                        {
+                            "label": "年号",
+                            "value": "安政５"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25280/canvas/p8#xywh=4777,3516,228,765",
+                    "@type": "sc:Canvas",
+                    "label": "16-A00-6010-1-48",
+                    "metadata": [
+                        {
+                            "label": "和暦",
+                            "value": "安政5年"
+                        },
+                        {
+                            "label": "西暦コード",
+                            "value": "18580099099"
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "〔諸流大森筑前玉翠堂引札〕"
+                        },
+                        {
+                            "label": "版種類",
+                            "value": "木版"
+                        },
+                        {
+                            "label": "数量",
+                            "value": "１枚"
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "4.5×1.3"
+                        },
+                        {
+                            "label": "形態分類",
+                            "value": "Ｗ"
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "7"
+                        },
+                        {
+                            "label": "地名",
+                            "value": "尾張"
+                        },
+                        {
+                            "label": "所蔵機関（名称）",
+                            "value": "東京大学総合図書館-A00-6010-1-48"
+                        },
+                        {
+                            "label": "年号",
+                            "value": "安政５"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25280/canvas/p8#xywh=4275,3491,481,762",
+                    "@type": "sc:Canvas",
+                    "label": "16-A00-6010-1-49",
+                    "metadata": [
+                        {
+                            "label": "和暦",
+                            "value": "安政5年"
+                        },
+                        {
+                            "label": "西暦コード",
+                            "value": "18580099099"
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "〔名古屋本町７丁目加々見屋半助茶所引札〕"
+                        },
+                        {
+                            "label": "版種類",
+                            "value": "木版"
+                        },
+                        {
+                            "label": "数量",
+                            "value": "１枚"
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "4.5×2.7"
+                        },
+                        {
+                            "label": "形態分類",
+                            "value": "Ｗ"
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "7"
+                        },
+                        {
+                            "label": "地名",
+                            "value": "尾張"
+                        },
+                        {
+                            "label": "所蔵機関（名称）",
+                            "value": "東京大学総合図書館-A00-6010-1-49"
+                        },
+                        {
+                            "label": "年号",
+                            "value": "安政５"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25280/canvas/p8#xywh=4059,3546,199,649",
+                    "@type": "sc:Canvas",
+                    "label": "16-A00-6010-1-50",
+                    "metadata": [
+                        {
+                            "label": "和暦",
+                            "value": "安政5年"
+                        },
+                        {
+                            "label": "西暦コード",
+                            "value": "18580099099"
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "〔晴雲堂引札〕"
+                        },
+                        {
+                            "label": "版種類",
+                            "value": "木版"
+                        },
+                        {
+                            "label": "数量",
+                            "value": "１枚"
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "3.7×1.0"
+                        },
+                        {
+                            "label": "形態分類",
+                            "value": "Ｗ"
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "7"
+                        },
+                        {
+                            "label": "地名",
+                            "value": "尾張？"
+                        },
+                        {
+                            "label": "所蔵機関（名称）",
+                            "value": "東京大学総合図書館-A00-6010-1-50"
+                        },
+                        {
+                            "label": "年号",
+                            "value": "安政５"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25280/canvas/p8#xywh=3540,2831,365,908",
+                    "@type": "sc:Canvas",
+                    "label": "16-A00-6010-1-51",
+                    "metadata": [
+                        {
+                            "label": "和暦",
+                            "value": "安政6年1月"
+                        },
+                        {
+                            "label": "西暦コード",
+                            "value": "18590001099"
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "〔都々逸７首摺物〕"
+                        },
+                        {
+                            "label": "版種類",
+                            "value": "木版"
+                        },
+                        {
+                            "label": "数量",
+                            "value": "１枚"
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "11.0×15.0　庫祐（印で高景）画、ポタポタ主人、雛谷、長福太夫、ゆたか、八十八等の作者名あり、包紙には「ひきそめ」とあり"
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "11"
+                        },
+                        {
+                            "label": "地名",
+                            "value": "江戸"
+                        },
+                        {
+                            "label": "所蔵機関（名称）",
+                            "value": "東京大学総合図書館-A00-6010-1-51"
+                        },
+                        {
+                            "label": "年号",
+                            "value": "安政６"
+                        },
+                        {
+                            "label": "月",
+                            "value": "1"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25280/canvas/p9#xywh=4047,454,1796,3813",
+                    "@type": "sc:Canvas",
+                    "label": "16-A00-6010-1-52",
+                    "metadata": [
+                        {
+                            "label": "和暦",
+                            "value": "安政6年1月"
+                        },
+                        {
+                            "label": "西暦コード",
+                            "value": "18590001099"
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "〔月次兼題〕"
+                        },
+                        {
+                            "label": "版種類",
+                            "value": "木版"
+                        },
+                        {
+                            "label": "数量",
+                            "value": "１枚"
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "24.0×11.0　松塘庵評、「景品呈上」、「毎月２０日締、７点已上丁摺、２０日後着ノ分翌月へ追加、但シ無料御ゆるし、翌月７日返草」とあり、巻元翠秀連、集所札之辻晴月堂、ゴフク丁３丁目松塘庵"
+                        },
+                        {
+                            "label": "形態分類",
+                            "value": "θ"
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "10"
+                        },
+                        {
+                            "label": "地名",
+                            "value": "尾張"
+                        },
+                        {
+                            "label": "所蔵機関（名称）",
+                            "value": "東京大学総合図書館-A00-6010-1-52"
+                        },
+                        {
+                            "label": "年号",
+                            "value": "安政６"
+                        },
+                        {
+                            "label": "月",
+                            "value": "1"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25280/canvas/p9#xywh=982,524,2979,2304",
+                    "@type": "sc:Canvas",
+                    "label": "16-A00-6010-1-53",
+                    "metadata": [
+                        {
+                            "label": "和暦",
+                            "value": "安政6年3月11日"
+                        },
+                        {
+                            "label": "西暦コード",
+                            "value": "18590003011"
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "〔書画会案内〕"
+                        },
+                        {
+                            "label": "版種類",
+                            "value": "木版"
+                        },
+                        {
+                            "label": "数量",
+                            "value": "１枚"
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "15.2×19.4　於竹ケ鼻本覚寺、会主武山霞岳、集所竹ケ鼻新町亀屋新助、名古屋本町２丁目揮雲堂、補助風外他２７名"
+                        },
+                        {
+                            "label": "形態分類",
+                            "value": "Ｗ"
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "10"
+                        },
+                        {
+                            "label": "地名",
+                            "value": "尾張"
+                        },
+                        {
+                            "label": "所蔵機関（名称）",
+                            "value": "東京大学総合図書館-A00-6010-1-53"
+                        },
+                        {
+                            "label": "年号",
+                            "value": "安政６"
+                        },
+                        {
+                            "label": "月",
+                            "value": "3"
+                        },
+                        {
+                            "label": "日",
+                            "value": "11"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25280/canvas/p9#xywh=869,2904,3165,1413",
+                    "@type": "sc:Canvas",
+                    "label": "16-A00-6010-1-54",
+                    "metadata": [
+                        {
+                            "label": "和暦",
+                            "value": "安政5年"
+                        },
+                        {
+                            "label": "西暦コード",
+                            "value": "18580099099"
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "〔朱印９顆〕"
+                        },
+                        {
+                            "label": "数量",
+                            "value": "９枚"
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "中島孟平２枚、会心亭印、柳田氏記、石黒良策、双松園記、鈴木容蔵、木村良周、宮田三雄"
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "10"
+                        },
+                        {
+                            "label": "地名",
+                            "value": "尾張"
+                        },
+                        {
+                            "label": "所蔵機関（名称）",
+                            "value": "東京大学総合図書館-A00-6010-1-54"
+                        },
+                        {
+                            "label": "年号",
+                            "value": "安政５"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25280/canvas/p10#xywh=1151,625,4539,2811",
+                    "@type": "sc:Canvas",
+                    "label": "16-A00-6010-1-55",
+                    "metadata": [
+                        {
+                            "label": "和暦",
+                            "value": "安政6年2月12日"
+                        },
+                        {
+                            "label": "西暦コード",
+                            "value": "18590002012"
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "〔詩歌連俳書画会案内〕"
+                        },
+                        {
+                            "label": "版種類",
+                            "value": "木版"
+                        },
+                        {
+                            "label": "数量",
+                            "value": "１枚"
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "19.4×29.5　於名古屋極楽寺、会主学樵二村森房、男森條、幹事月岱、春岳、清渓、共樵、南景、九儀、清秋、月耕、月甫、寿観、玄明、寿鳳、補助京清暉他、展玩集所名古屋本町２丁目揮雲堂三右衛門、同京町通桑名町東へ入山田屋儀平、包紙あり"
+                        },
+                        {
+                            "label": "形態分類",
+                            "value": "Ｗ"
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "10"
+                        },
+                        {
+                            "label": "地名",
+                            "value": "尾張"
+                        },
+                        {
+                            "label": "所蔵機関（名称）",
+                            "value": "東京大学総合図書館-A00-6010-1-55"
+                        },
+                        {
+                            "label": "年号",
+                            "value": "安政６"
+                        },
+                        {
+                            "label": "月",
+                            "value": "2"
+                        },
+                        {
+                            "label": "日",
+                            "value": "12"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25280/canvas/p10#xywh=872,3627,4951,662",
+                    "@type": "sc:Canvas",
+                    "label": "16-A00-6010-1-56",
+                    "metadata": [
+                        {
+                            "label": "和暦",
+                            "value": "安政5年"
+                        },
+                        {
+                            "label": "西暦コード",
+                            "value": "18580099099"
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "南京唐針引札"
+                        },
+                        {
+                            "label": "版種類",
+                            "value": "木版"
+                        },
+                        {
+                            "label": "数量",
+                            "value": "原形不詳"
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "「大極上」とあり、大ちやぼ、中ちやぼ、小ちやぼ、もめんつき、きぬゑりしめ、きぬ、大くけ、つなし、つむぎぐけ、つむき、きぬくけ、みそ、もめんゑりしめと針の１３種名称あり"
+                        },
+                        {
+                            "label": "形態分類",
+                            "value": "Ｗ"
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "7"
+                        },
+                        {
+                            "label": "地名",
+                            "value": "尾張"
+                        },
+                        {
+                            "label": "所蔵機関（名称）",
+                            "value": "東京大学総合図書館-A00-6010-1-56"
+                        },
+                        {
+                            "label": "年号",
+                            "value": "安政５"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25280/canvas/p11#xywh=3435,427,583,2042",
+                    "@type": "sc:Canvas",
+                    "label": "16-A00-6010-1-57",
+                    "metadata": [
+                        {
+                            "label": "和暦",
+                            "value": "安政5年"
+                        },
+                        {
+                            "label": "西暦コード",
+                            "value": "18580099099"
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "〔名古屋玉屋町きせる師むら田和市店引札〕"
+                        },
+                        {
+                            "label": "版種類",
+                            "value": "木版"
+                        },
+                        {
+                            "label": "数量",
+                            "value": "１枚"
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "12.3×3.0"
+                        },
+                        {
+                            "label": "形態分類",
+                            "value": "Ｗ"
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "7"
+                        },
+                        {
+                            "label": "地名",
+                            "value": "尾張"
+                        },
+                        {
+                            "label": "所蔵機関（名称）",
+                            "value": "東京大学総合図書館-A00-6010-1-57"
+                        },
+                        {
+                            "label": "年号",
+                            "value": "安政５"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25280/canvas/p11#xywh=3701,2560,239,661",
+                    "@type": "sc:Canvas",
+                    "label": "16-A00-6010-1-58",
+                    "metadata": [
+                        {
+                            "label": "和暦",
+                            "value": "安政5年"
+                        },
+                        {
+                            "label": "西暦コード",
+                            "value": "18580099099"
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "〔をりや四兵衛店引札〕"
+                        },
+                        {
+                            "label": "版種類",
+                            "value": "木版"
+                        },
+                        {
+                            "label": "数量",
+                            "value": "１枚"
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "3.7×1.2"
+                        },
+                        {
+                            "label": "形態分類",
+                            "value": "Ｗ"
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "7"
+                        },
+                        {
+                            "label": "地名",
+                            "value": "尾張？"
+                        },
+                        {
+                            "label": "所蔵機関（名称）",
+                            "value": "東京大学総合図書館-A00-6010-1-58"
+                        },
+                        {
+                            "label": "年号",
+                            "value": "安政５"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25280/canvas/p11#xywh=3421,2554,279,677",
+                    "@type": "sc:Canvas",
+                    "label": "16-A00-6010-1-59",
+                    "metadata": [
+                        {
+                            "label": "和暦",
+                            "value": "安政5年"
+                        },
+                        {
+                            "label": "西暦コード",
+                            "value": "18580099099"
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "〔伊藤保住店引札〕"
+                        },
+                        {
+                            "label": "版種類",
+                            "value": "木版"
+                        },
+                        {
+                            "label": "数量",
+                            "value": "１枚"
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "3.5×1.0"
+                        },
+                        {
+                            "label": "形態分類",
+                            "value": "Ｗ"
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "7"
+                        },
+                        {
+                            "label": "地名",
+                            "value": "尾張？"
+                        },
+                        {
+                            "label": "所蔵機関（名称）",
+                            "value": "東京大学総合図書館-A00-6010-1-59"
+                        },
+                        {
+                            "label": "年号",
+                            "value": "安政５"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25280/canvas/p11#xywh=5105,3337,728,909",
+                    "@type": "sc:Canvas",
+                    "label": "16-A00-6010-1-60",
+                    "metadata": [
+                        {
+                            "label": "和暦",
+                            "value": "安政5年"
+                        },
+                        {
+                            "label": "西暦コード",
+                            "value": "18580099099"
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "〔小網町２丁目伊勢屋吉右衛門□□散引札〕"
+                        },
+                        {
+                            "label": "版種類",
+                            "value": "木版"
+                        },
+                        {
+                            "label": "数量",
+                            "value": "１枚"
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "5.7×4.6　「元祖金袋」とあり"
+                        },
+                        {
+                            "label": "形態分類",
+                            "value": "Ｗ"
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "7"
+                        },
+                        {
+                            "label": "地名",
+                            "value": "江戸"
+                        },
+                        {
+                            "label": "所蔵機関（名称）",
+                            "value": "東京大学総合図書館-A00-6010-1-60"
+                        },
+                        {
+                            "label": "年号",
+                            "value": "安政５"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25280/canvas/p11#xywh=4315,3406,742,758",
+                    "@type": "sc:Canvas",
+                    "label": "16-A00-6010-1-61",
+                    "metadata": [
+                        {
+                            "label": "和暦",
+                            "value": "安政5年"
+                        },
+                        {
+                            "label": "西暦コード",
+                            "value": "18580099099"
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "〔小網町２丁目よろひのわたし伊勢吉引札〕"
+                        },
+                        {
+                            "label": "版種類",
+                            "value": "木版"
+                        },
+                        {
+                            "label": "数量",
+                            "value": "１枚"
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "4.6×4.5　「にせうりはみがき」御注意の文句あり"
+                        },
+                        {
+                            "label": "形態分類",
+                            "value": "Ｗ"
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "7"
+                        },
+                        {
+                            "label": "地名",
+                            "value": "江戸"
+                        },
+                        {
+                            "label": "所蔵機関（名称）",
+                            "value": "東京大学総合図書館-A00-6010-1-61"
+                        },
+                        {
+                            "label": "年号",
+                            "value": "安政５"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25280/canvas/p11#xywh=3511,3328,680,913",
+                    "@type": "sc:Canvas",
+                    "label": "16-A00-6010-1-62",
+                    "metadata": [
+                        {
+                            "label": "和暦",
+                            "value": "安政5年"
+                        },
+                        {
+                            "label": "西暦コード",
+                            "value": "18580099099"
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "〔名古屋桜ノ町桜屋平兵衛菓子所店引札〕"
+                        },
+                        {
+                            "label": "版種類",
+                            "value": "木版"
+                        },
+                        {
+                            "label": "数量",
+                            "value": "１枚"
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "5.1×3.6"
+                        },
+                        {
+                            "label": "形態分類",
+                            "value": "Ｗ"
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "7"
+                        },
+                        {
+                            "label": "地名",
+                            "value": "尾張"
+                        },
+                        {
+                            "label": "所蔵機関（名称）",
+                            "value": "東京大学総合図書館-A00-6010-1-62"
+                        },
+                        {
+                            "label": "年号",
+                            "value": "安政５"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25280/canvas/p11#xywh=832,457,2492,1919",
+                    "@type": "sc:Canvas",
+                    "label": "16-A00-6010-1-63",
+                    "metadata": [
+                        {
+                            "label": "和暦",
+                            "value": "安政6年3月5日"
+                        },
+                        {
+                            "label": "西暦コード",
+                            "value": "18590003005"
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "〔花月庵評兼題〕"
+                        },
+                        {
+                            "label": "版種類",
+                            "value": "木版"
+                        },
+                        {
+                            "label": "数量",
+                            "value": "１枚"
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "11.8×15.3　届所晴月堂、巻本花水、菊外、題花鳥風月、頭木綿一反、油半切２００丁、「３月５日締不延、其月中ニ返草」とあり"
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "10"
+                        },
+                        {
+                            "label": "地名",
+                            "value": "尾張"
+                        },
+                        {
+                            "label": "所蔵機関（名称）",
+                            "value": "東京大学総合図書館-A00-6010-1-63"
+                        },
+                        {
+                            "label": "年号",
+                            "value": "安政６"
+                        },
+                        {
+                            "label": "月",
+                            "value": "3"
+                        },
+                        {
+                            "label": "日",
+                            "value": "5"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25280/canvas/p11#xywh=2011,2406,1365,1863",
+                    "@type": "sc:Canvas",
+                    "label": "16-A00-6010-1-64",
+                    "metadata": [
+                        {
+                            "label": "和暦",
+                            "value": "安政5年"
+                        },
+                        {
+                            "label": "西暦コード",
+                            "value": "18580099099"
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "〔熱田二の鳥居前上製つくはね引札〕"
+                        },
+                        {
+                            "label": "版種類",
+                            "value": "木版"
+                        },
+                        {
+                            "label": "数量",
+                            "value": "１枚"
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "11.2×7.4　６５は対となっているのか？"
+                        },
+                        {
+                            "label": "形態分類",
+                            "value": "Ｗ"
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "7"
+                        },
+                        {
+                            "label": "地名",
+                            "value": "尾張"
+                        },
+                        {
+                            "label": "所蔵機関（名称）",
+                            "value": "東京大学総合図書館-A00-6010-1-64"
+                        },
+                        {
+                            "label": "年号",
+                            "value": "安政５"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25280/canvas/p11#xywh=853,2398,1148,1895",
+                    "@type": "sc:Canvas",
+                    "label": "16-A00-6010-1-65",
+                    "metadata": [
+                        {
+                            "label": "和暦",
+                            "value": "安政5年"
+                        },
+                        {
+                            "label": "西暦コード",
+                            "value": "18580099099"
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "〔こたつに入る娘に飛雁の図〕"
+                        },
+                        {
+                            "label": "版種類",
+                            "value": "木版"
+                        },
+                        {
+                            "label": "数量",
+                            "value": "１枚"
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "12.1×7.1　歌が書かれているが、消えかかって判読不能、あるいは６４と対のものか？"
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "7"
+                        },
+                        {
+                            "label": "地名",
+                            "value": "尾張？"
+                        },
+                        {
+                            "label": "所蔵機関（名称）",
+                            "value": "東京大学総合図書館-A00-6010-1-65"
+                        },
+                        {
+                            "label": "年号",
+                            "value": "安政５"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25280/canvas/p12#xywh=3054,445,2800,2809",
+                    "@type": "sc:Canvas",
+                    "label": "16-A00-6010-1-66",
+                    "metadata": [
+                        {
+                            "label": "和暦",
+                            "value": "安政6年1月"
+                        },
+                        {
+                            "label": "西暦コード",
+                            "value": "18590001099"
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "〔大阪日本ばし北西え入客舎金国堂引札〕"
+                        },
+                        {
+                            "label": "版種類",
+                            "value": "木版"
+                        },
+                        {
+                            "label": "数量",
+                            "value": "１枚"
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "17.5×17.0　安政５年２月２５日の大火で焼失したが、再建なったのを報知したもの、以前牧百峰が六橋閣と名づけてくれたことを記している、御泊り２５０文、昼飯１３０文、６７（芝居）を参照のこと"
+                        },
+                        {
+                            "label": "形態分類",
+                            "value": "Ｗ"
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "7"
+                        },
+                        {
+                            "label": "地名",
+                            "value": "大阪"
+                        },
+                        {
+                            "label": "所蔵機関（名称）",
+                            "value": "東京大学総合図書館-A00-6010-1-66"
+                        },
+                        {
+                            "label": "年号",
+                            "value": "安政６"
+                        },
+                        {
+                            "label": "月",
+                            "value": "1"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25280/canvas/p12#xywh=827,445,2217,2761",
+                    "@type": "sc:Canvas",
+                    "label": "16-A00-6010-1-67",
+                    "metadata": [
+                        {
+                            "label": "和暦",
+                            "value": "安政6年1月"
+                        },
+                        {
+                            "label": "西暦コード",
+                            "value": "18590001099"
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "〔大阪竹田中角其他諸芝居類焼後正月より復興につき口伸〕"
+                        },
+                        {
+                            "label": "版種類",
+                            "value": "木版"
+                        },
+                        {
+                            "label": "数量",
+                            "value": "１枚"
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "17.0×24.2　角芝居東隣り芝居茶屋よど屋治兵衛・日本橋北詰西へ入宿屋金国堂連名のもの、６６（営業）を参照のこと、角芝居・中芝居の配役名あり"
+                        },
+                        {
+                            "label": "形態分類",
+                            "value": "Ｗ"
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "11"
+                        },
+                        {
+                            "label": "地名",
+                            "value": "大阪"
+                        },
+                        {
+                            "label": "所蔵機関（名称）",
+                            "value": "東京大学総合図書館-A00-6010-1-67"
+                        },
+                        {
+                            "label": "年号",
+                            "value": "安政６"
+                        },
+                        {
+                            "label": "月",
+                            "value": "1"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25280/canvas/p12#xywh=4580,3225,1300,1040",
+                    "@type": "sc:Canvas",
+                    "label": "16-A00-6010-1-68",
+                    "metadata": [
+                        {
+                            "label": "和暦",
+                            "value": "安政5年"
+                        },
+                        {
+                            "label": "西暦コード",
+                            "value": "18580099099"
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "〔拳をうつ図６点〕"
+                        },
+                        {
+                            "label": "版種類",
+                            "value": "木版"
+                        },
+                        {
+                            "label": "数量",
+                            "value": "６枚"
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "3.2×2.7　同じ大きさのもの６枚"
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "15"
+                        },
+                        {
+                            "label": "地名",
+                            "value": "尾張？"
+                        },
+                        {
+                            "label": "所蔵機関（名称）",
+                            "value": "東京大学総合図書館-A00-6010-1-68"
+                        },
+                        {
+                            "label": "年号",
+                            "value": "安政５"
+                        }
+                    ]
+                },
+                {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25280/canvas/p12#xywh=3460,3217,1120,1124",
                     "@type": "sc:Canvas",
                     "label": "16-A00-6010-1-69",
@@ -2335,6 +3516,1081 @@
                         {
                             "label": "所蔵機関（名称）",
                             "value": "東京大学総合図書館-A00-6010-1-69"
+                        },
+                        {
+                            "label": "年号",
+                            "value": "安政５"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25280/canvas/p12#xywh=2610,3291,697,996",
+                    "@type": "sc:Canvas",
+                    "label": "16-A00-6010-1-70",
+                    "metadata": [
+                        {
+                            "label": "和暦",
+                            "value": "安政5年"
+                        },
+                        {
+                            "label": "西暦コード",
+                            "value": "18580099099"
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "〔京都御幸町通三条下り町丹波屋利兵衛呉服染物誂所引札〕"
+                        },
+                        {
+                            "label": "版種類",
+                            "value": "木版"
+                        },
+                        {
+                            "label": "数量",
+                            "value": "１枚"
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "5.5×4.0"
+                        },
+                        {
+                            "label": "形態分類",
+                            "value": "Ｗ"
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "7"
+                        },
+                        {
+                            "label": "地名",
+                            "value": "京都"
+                        },
+                        {
+                            "label": "所蔵機関（名称）",
+                            "value": "東京大学総合図書館-A00-6010-1-70"
+                        },
+                        {
+                            "label": "年号",
+                            "value": "安政５"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25280/canvas/p12#xywh=2272,3310,349,851",
+                    "@type": "sc:Canvas",
+                    "label": "16-A00-6010-1-71",
+                    "metadata": [
+                        {
+                            "label": "和暦",
+                            "value": "安政5年"
+                        },
+                        {
+                            "label": "西暦コード",
+                            "value": "18580099099"
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "対山堂引札"
+                        },
+                        {
+                            "label": "版種類",
+                            "value": "木版"
+                        },
+                        {
+                            "label": "数量",
+                            "value": "１枚"
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "4.5×1.4"
+                        },
+                        {
+                            "label": "形態分類",
+                            "value": "Ｗ"
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "7"
+                        },
+                        {
+                            "label": "地名",
+                            "value": "尾張？"
+                        },
+                        {
+                            "label": "所蔵機関（名称）",
+                            "value": "東京大学総合図書館-A00-6010-1-71"
+                        },
+                        {
+                            "label": "年号",
+                            "value": "安政５"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25280/canvas/p12#xywh=1115,3184,1160,1140",
+                    "@type": "sc:Canvas",
+                    "label": "16-A00-6010-1-72",
+                    "metadata": [
+                        {
+                            "label": "和暦",
+                            "value": "安政5年"
+                        },
+                        {
+                            "label": "西暦コード",
+                            "value": "18580099099"
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "〔揮雲堂印章〕"
+                        },
+                        {
+                            "label": "数量",
+                            "value": "１枚"
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "6.7×6.7　揮雲堂は名古屋本町２丁目の書画筆墨店"
+                        },
+                        {
+                            "label": "形態分類",
+                            "value": "Ｗ"
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "10"
+                        },
+                        {
+                            "label": "地名",
+                            "value": "尾張"
+                        },
+                        {
+                            "label": "所蔵機関（名称）",
+                            "value": "東京大学総合図書館-A00-6010-1-72"
+                        },
+                        {
+                            "label": "年号",
+                            "value": "安政５"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25280/canvas/p12#xywh=854,3252,291,783",
+                    "@type": "sc:Canvas",
+                    "label": "16-A00-6010-1-73",
+                    "metadata": [
+                        {
+                            "label": "和暦",
+                            "value": "安政5年"
+                        },
+                        {
+                            "label": "西暦コード",
+                            "value": "18580099099"
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "〔玉嶋東雲堂引札〕"
+                        },
+                        {
+                            "label": "版種類",
+                            "value": "木版"
+                        },
+                        {
+                            "label": "数量",
+                            "value": "１枚"
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "4.4×1.4"
+                        },
+                        {
+                            "label": "形態分類",
+                            "value": "Ｗ"
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "7"
+                        },
+                        {
+                            "label": "地名",
+                            "value": "大阪"
+                        },
+                        {
+                            "label": "所蔵機関（名称）",
+                            "value": "東京大学総合図書館-A00-6010-1-73"
+                        },
+                        {
+                            "label": "年号",
+                            "value": "安政５"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25280/canvas/p13#xywh=3567,398,625,3866",
+                    "@type": "sc:Canvas",
+                    "label": "16-A00-6010-1-74",
+                    "metadata": [
+                        {
+                            "label": "和暦",
+                            "value": "安政5年"
+                        },
+                        {
+                            "label": "西暦コード",
+                            "value": "18580099099"
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "〔江戸大伝馬２丁目地はり御きせる司むらた六ひやうへ店引札〕"
+                        },
+                        {
+                            "label": "版種類",
+                            "value": "木版"
+                        },
+                        {
+                            "label": "数量",
+                            "value": "１枚"
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "23.6×3.9　「御用所」、「うけ合正札付」、「御誂御望次第仕候」とあり"
+                        },
+                        {
+                            "label": "形態分類",
+                            "value": "Ｗ"
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "7"
+                        },
+                        {
+                            "label": "地名",
+                            "value": "江戸"
+                        },
+                        {
+                            "label": "所蔵機関（名称）",
+                            "value": "東京大学総合図書館-A00-6010-1-74"
+                        },
+                        {
+                            "label": "年号",
+                            "value": "安政５"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25280/canvas/p13#xywh=849,798,2287,2443",
+                    "@type": "sc:Canvas",
+                    "label": "16-A00-6010-1-75",
+                    "metadata": [
+                        {
+                            "label": "和暦",
+                            "value": "安政5年8月22日"
+                        },
+                        {
+                            "label": "西暦コード",
+                            "value": "18580008022"
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "〔詩歌連俳書画会案内〕"
+                        },
+                        {
+                            "label": "版種類",
+                            "value": "木版"
+                        },
+                        {
+                            "label": "数量",
+                            "value": "１枚"
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "18.5×24.7　於尾州西御坊、「為先師法眼梅山翁追善」、会主梅仙若林興、執事雪香斉社中、展観集所古沢玉林堂（京）、松下園（大坂）、扇面亭（江戸）、松本政之助（長崎）、山田屋儀平（名古屋）、香米堂（名古屋）、社盟・和致芳・衆香林鼎鐫"
+                        },
+                        {
+                            "label": "形態分類",
+                            "value": "Ｗ"
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "10"
+                        },
+                        {
+                            "label": "地名",
+                            "value": "尾張"
+                        },
+                        {
+                            "label": "所蔵機関（名称）",
+                            "value": "東京大学総合図書館-A00-6010-1-75"
+                        },
+                        {
+                            "label": "年号",
+                            "value": "安政５"
+                        },
+                        {
+                            "label": "月",
+                            "value": "8"
+                        },
+                        {
+                            "label": "日",
+                            "value": "22"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25280/canvas/p13#xywh=5255,3388,618,820",
+                    "@type": "sc:Canvas",
+                    "label": "16-A00-6010-1-76",
+                    "metadata": [
+                        {
+                            "label": "和暦",
+                            "value": "安政5年"
+                        },
+                        {
+                            "label": "西暦コード",
+                            "value": "18580099099"
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "〔尾州津嶋吾妻屋万蔵御用御麸引札〕"
+                        },
+                        {
+                            "label": "版種類",
+                            "value": "木版"
+                        },
+                        {
+                            "label": "数量",
+                            "value": "１枚"
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "5.0×3.6"
+                        },
+                        {
+                            "label": "形態分類",
+                            "value": "Ｗ"
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "7"
+                        },
+                        {
+                            "label": "地名",
+                            "value": "尾張"
+                        },
+                        {
+                            "label": "所蔵機関（名称）",
+                            "value": "東京大学総合図書館-A00-6010-1-76"
+                        },
+                        {
+                            "label": "年号",
+                            "value": "安政５"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25280/canvas/p13#xywh=4952,3309,252,974",
+                    "@type": "sc:Canvas",
+                    "label": "16-A00-6010-1-77",
+                    "metadata": [
+                        {
+                            "label": "和暦",
+                            "value": "安政5年"
+                        },
+                        {
+                            "label": "西暦コード",
+                            "value": "18580099099"
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "順風館監製琢記玉雪貢牋紙引札"
+                        },
+                        {
+                            "label": "版種類",
+                            "value": "木版"
+                        },
+                        {
+                            "label": "数量",
+                            "value": "１枚"
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "6.0×1.2"
+                        },
+                        {
+                            "label": "形態分類",
+                            "value": "Ｗ"
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "7"
+                        },
+                        {
+                            "label": "地名",
+                            "value": "尾張？"
+                        },
+                        {
+                            "label": "所蔵機関（名称）",
+                            "value": "東京大学総合図書館-A00-6010-1-77"
+                        },
+                        {
+                            "label": "年号",
+                            "value": "安政５"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25280/canvas/p13#xywh=4192,3351,642,855",
+                    "@type": "sc:Canvas",
+                    "label": "16-A00-6010-1-78",
+                    "metadata": [
+                        {
+                            "label": "和暦",
+                            "value": "安政5年"
+                        },
+                        {
+                            "label": "西暦コード",
+                            "value": "18580099099"
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "〔尾州清須北市場種物屋喜八店引札〕"
+                        },
+                        {
+                            "label": "版種類",
+                            "value": "木版"
+                        },
+                        {
+                            "label": "数量",
+                            "value": "１枚"
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "5.0×4.0"
+                        },
+                        {
+                            "label": "形態分類",
+                            "value": "Ｗ"
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "7"
+                        },
+                        {
+                            "label": "地名",
+                            "value": "尾張"
+                        },
+                        {
+                            "label": "所蔵機関（名称）",
+                            "value": "東京大学総合図書館-A00-6010-1-78"
+                        },
+                        {
+                            "label": "年号",
+                            "value": "安政５"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25280/canvas/p13#xywh=3053,3526,252,706",
+                    "@type": "sc:Canvas",
+                    "label": "16-A00-6010-1-79",
+                    "metadata": [
+                        {
+                            "label": "和暦",
+                            "value": "安政5年"
+                        },
+                        {
+                            "label": "西暦コード",
+                            "value": "18580099099"
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "〔宇治精製某品引札〕"
+                        },
+                        {
+                            "label": "版種類",
+                            "value": "木版"
+                        },
+                        {
+                            "label": "数量",
+                            "value": "１枚"
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "3.9×1.1"
+                        },
+                        {
+                            "label": "形態分類",
+                            "value": "Ｗ"
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "7"
+                        },
+                        {
+                            "label": "地名",
+                            "value": "山城"
+                        },
+                        {
+                            "label": "所蔵機関（名称）",
+                            "value": "東京大学総合図書館-A00-6010-1-79"
+                        },
+                        {
+                            "label": "年号",
+                            "value": "安政５"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25280/canvas/p13#xywh=2550,3483,485,770",
+                    "@type": "sc:Canvas",
+                    "label": "16-A00-6010-1-80",
+                    "metadata": [
+                        {
+                            "label": "和暦",
+                            "value": "安政5年"
+                        },
+                        {
+                            "label": "西暦コード",
+                            "value": "18580099099"
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "〔名古屋伝馬町升屋半三郎挽茶売捌所引札〕"
+                        },
+                        {
+                            "label": "版種類",
+                            "value": "木版"
+                        },
+                        {
+                            "label": "数量",
+                            "value": "１枚"
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "4.5×2.7"
+                        },
+                        {
+                            "label": "形態分類",
+                            "value": "Ｗ"
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "7"
+                        },
+                        {
+                            "label": "地名",
+                            "value": "尾張"
+                        },
+                        {
+                            "label": "所蔵機関（名称）",
+                            "value": "東京大学総合図書館-A00-6010-1-80"
+                        },
+                        {
+                            "label": "年号",
+                            "value": "安政５"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25280/canvas/p13#xywh=2012,3456,540,831",
+                    "@type": "sc:Canvas",
+                    "label": "16-A00-6010-1-81",
+                    "metadata": [
+                        {
+                            "label": "和暦",
+                            "value": "安政5年"
+                        },
+                        {
+                            "label": "西暦コード",
+                            "value": "18580099099"
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "〔名古屋本町３丁目万□取次所小牧飛脚朝日屋兵助店引札〕"
+                        },
+                        {
+                            "label": "版種類",
+                            "value": "木版"
+                        },
+                        {
+                            "label": "数量",
+                            "value": "１枚"
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "4.8×3.1"
+                        },
+                        {
+                            "label": "形態分類",
+                            "value": "Ｗ"
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "7"
+                        },
+                        {
+                            "label": "地名",
+                            "value": "尾張"
+                        },
+                        {
+                            "label": "所蔵機関（名称）",
+                            "value": "東京大学総合図書館-A00-6010-1-81"
+                        },
+                        {
+                            "label": "年号",
+                            "value": "安政５"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25280/canvas/p13#xywh=1452,3451,528,828",
+                    "@type": "sc:Canvas",
+                    "label": "16-A00-6010-1-82",
+                    "metadata": [
+                        {
+                            "label": "和暦",
+                            "value": "安政5年"
+                        },
+                        {
+                            "label": "西暦コード",
+                            "value": "18580099099"
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "〔名古屋江川町一瓢園菓子司引札〕"
+                        },
+                        {
+                            "label": "版種類",
+                            "value": "木版"
+                        },
+                        {
+                            "label": "数量",
+                            "value": "１枚"
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "4.5×3.0"
+                        },
+                        {
+                            "label": "形態分類",
+                            "value": "Ｗ"
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "7"
+                        },
+                        {
+                            "label": "地名",
+                            "value": "尾張"
+                        },
+                        {
+                            "label": "所蔵機関（名称）",
+                            "value": "東京大学総合図書館-A00-6010-1-82"
+                        },
+                        {
+                            "label": "年号",
+                            "value": "安政５"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25280/canvas/p13#xywh=871,3434,552,839",
+                    "@type": "sc:Canvas",
+                    "label": "16-A00-6010-1-83",
+                    "metadata": [
+                        {
+                            "label": "和暦",
+                            "value": "安政5年"
+                        },
+                        {
+                            "label": "西暦コード",
+                            "value": "18580099099"
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "〔名古屋京町通諸町吉良屋正続菓子所引札〕"
+                        },
+                        {
+                            "label": "版種類",
+                            "value": "木版"
+                        },
+                        {
+                            "label": "数量",
+                            "value": "１枚"
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "5.1×3.5"
+                        },
+                        {
+                            "label": "形態分類",
+                            "value": "Ｗ"
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "7"
+                        },
+                        {
+                            "label": "地名",
+                            "value": "尾張"
+                        },
+                        {
+                            "label": "所蔵機関（名称）",
+                            "value": "東京大学総合図書館-A00-6010-1-83"
+                        },
+                        {
+                            "label": "年号",
+                            "value": "安政５"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25280/canvas/p14#xywh=3526,426,892,2254",
+                    "@type": "sc:Canvas",
+                    "label": "16-A00-6010-1-84",
+                    "metadata": [
+                        {
+                            "label": "和暦",
+                            "value": "安政5年"
+                        },
+                        {
+                            "label": "西暦コード",
+                            "value": "18580099099"
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "蜂屋御枝柿引札"
+                        },
+                        {
+                            "label": "版種類",
+                            "value": "木版"
+                        },
+                        {
+                            "label": "数量",
+                            "value": "１枚"
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "13.7×4.5"
+                        },
+                        {
+                            "label": "形態分類",
+                            "value": "Ｗ"
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "7"
+                        },
+                        {
+                            "label": "地名",
+                            "value": "美濃"
+                        },
+                        {
+                            "label": "所蔵機関（名称）",
+                            "value": "東京大学総合図書館-A00-6010-1-84"
+                        },
+                        {
+                            "label": "年号",
+                            "value": "安政５"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25280/canvas/p14#xywh=805,550,2607,2302",
+                    "@type": "sc:Canvas",
+                    "label": "16-A00-6010-1-85",
+                    "metadata": [
+                        {
+                            "label": "和暦",
+                            "value": "安政5年"
+                        },
+                        {
+                            "label": "西暦コード",
+                            "value": "18580099099"
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "蘭方洗ひ布巾引札"
+                        },
+                        {
+                            "label": "版種類",
+                            "value": "木版"
+                        },
+                        {
+                            "label": "数量",
+                            "value": "１枚"
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "15.2×22.5　本家長崎桜町吉野屋弥六、売弘所名古屋若宮前大嶋屋与兵衛他市内１４軒、一ト筋代１６４文"
+                        },
+                        {
+                            "label": "形態分類",
+                            "value": "Ｗ"
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "7"
+                        },
+                        {
+                            "label": "地名",
+                            "value": "尾張"
+                        },
+                        {
+                            "label": "所蔵機関（名称）",
+                            "value": "東京大学総合図書館-A00-6010-1-85"
+                        },
+                        {
+                            "label": "年号",
+                            "value": "安政５"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25280/canvas/p14#xywh=4431,3346,1481,910",
+                    "@type": "sc:Canvas",
+                    "label": "16-A00-6010-1-86",
+                    "metadata": [
+                        {
+                            "label": "和暦",
+                            "value": "安政5年"
+                        },
+                        {
+                            "label": "西暦コード",
+                            "value": "18580099099"
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "清正香引札"
+                        },
+                        {
+                            "label": "版種類",
+                            "value": "木版"
+                        },
+                        {
+                            "label": "数量",
+                            "value": "２枚"
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "4.9×4.4　２枚、但し内容は異る、江戸深川森下町谷□屋正兵衛、元祖金袋とあり"
+                        },
+                        {
+                            "label": "形態分類",
+                            "value": "Ｗ"
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "3"
+                        },
+                        {
+                            "label": "地名",
+                            "value": "江戸"
+                        },
+                        {
+                            "label": "所蔵機関（名称）",
+                            "value": "東京大学総合図書館-A00-6010-1-86"
+                        },
+                        {
+                            "label": "年号",
+                            "value": "安政５"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25280/canvas/p14#xywh=3633,2679,584,700",
+                    "@type": "sc:Canvas",
+                    "label": "16-A00-6010-1-87",
+                    "metadata": [
+                        {
+                            "label": "和暦",
+                            "value": "安政5年"
+                        },
+                        {
+                            "label": "西暦コード",
+                            "value": "18580099099"
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "〔美濃笠松本町和泉屋義智菓子所引札〕"
+                        },
+                        {
+                            "label": "版種類",
+                            "value": "木版"
+                        },
+                        {
+                            "label": "数量",
+                            "value": "１枚"
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "4.4×3.0"
+                        },
+                        {
+                            "label": "形態分類",
+                            "value": "Ｗ"
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "7"
+                        },
+                        {
+                            "label": "地名",
+                            "value": "美濃"
+                        },
+                        {
+                            "label": "所蔵機関（名称）",
+                            "value": "東京大学総合図書館-A00-6010-1-87"
+                        },
+                        {
+                            "label": "年号",
+                            "value": "安政５"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25280/canvas/p14#xywh=3596,3382,699,917",
+                    "@type": "sc:Canvas",
+                    "label": "16-A00-6010-1-88",
+                    "metadata": [
+                        {
+                            "label": "和暦",
+                            "value": "安政5年"
+                        },
+                        {
+                            "label": "西暦コード",
+                            "value": "18580099099"
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "五明引札"
+                        },
+                        {
+                            "label": "版種類",
+                            "value": "木版"
+                        },
+                        {
+                            "label": "数量",
+                            "value": "１枚"
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "6.4×3.7"
+                        },
+                        {
+                            "label": "形態分類",
+                            "value": "Ｗ"
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "7"
+                        },
+                        {
+                            "label": "地名",
+                            "value": "尾張？"
+                        },
+                        {
+                            "label": "所蔵機関（名称）",
+                            "value": "東京大学総合図書館-A00-6010-1-88"
+                        },
+                        {
+                            "label": "年号",
+                            "value": "安政５"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25280/canvas/p14#xywh=2049,2872,1154,1433",
+                    "@type": "sc:Canvas",
+                    "label": "16-A00-6010-1-89",
+                    "metadata": [
+                        {
+                            "label": "和暦",
+                            "value": "安政5年"
+                        },
+                        {
+                            "label": "西暦コード",
+                            "value": "18580099099"
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "〔名古屋巾下江川町蓬莱屋徳三郎大白かる焼引札〕"
+                        },
+                        {
+                            "label": "版種類",
+                            "value": "木版"
+                        },
+                        {
+                            "label": "数量",
+                            "value": "１枚"
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "8.5×6.7"
+                        },
+                        {
+                            "label": "形態分類",
+                            "value": "Ｗ"
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "7"
+                        },
+                        {
+                            "label": "地名",
+                            "value": "尾張"
+                        },
+                        {
+                            "label": "所蔵機関（名称）",
+                            "value": "東京大学総合図書館-A00-6010-1-89"
+                        },
+                        {
+                            "label": "年号",
+                            "value": "安政５"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25280/canvas/p14#xywh=923,2889,1019,1381",
+                    "@type": "sc:Canvas",
+                    "label": "16-A00-6010-1-90",
+                    "metadata": [
+                        {
+                            "label": "和暦",
+                            "value": "安政5年"
+                        },
+                        {
+                            "label": "西暦コード",
+                            "value": "18580099099"
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "〔名古屋伝馬町８丁目□□□□御紅所引札〕"
+                        },
+                        {
+                            "label": "版種類",
+                            "value": "木版"
+                        },
+                        {
+                            "label": "数量",
+                            "value": "１枚"
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "8.2×6.0"
+                        },
+                        {
+                            "label": "形態分類",
+                            "value": "Ｗ"
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "7"
+                        },
+                        {
+                            "label": "地名",
+                            "value": "尾張"
+                        },
+                        {
+                            "label": "所蔵機関（名称）",
+                            "value": "東京大学総合図書館-A00-6010-1-90"
                         },
                         {
                             "label": "年号",
@@ -4532,6 +6788,316 @@
                         {
                             "label": "所蔵機関（名称）",
                             "value": "東京大学総合図書館-A00-6010-1-133"
+                        },
+                        {
+                            "label": "年号",
+                            "value": "安政５"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25280/canvas/p21#xywh=4382,483,1397,3737",
+                    "@type": "sc:Canvas",
+                    "label": "16-A00-6010-1-134",
+                    "metadata": [
+                        {
+                            "label": "和暦",
+                            "value": "安政5年"
+                        },
+                        {
+                            "label": "西暦コード",
+                            "value": "18580099099"
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "〔名古屋本町２丁目津国屋三右衛門揮雲堂引札〕"
+                        },
+                        {
+                            "label": "版種類",
+                            "value": "木版"
+                        },
+                        {
+                            "label": "数量",
+                            "value": "１枚"
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "23.5×10.7　御筆墨、朱肉、黒にく、硯、はけ類、絵具、香具等"
+                        },
+                        {
+                            "label": "形態分類",
+                            "value": "Ｗ"
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "7"
+                        },
+                        {
+                            "label": "地名",
+                            "value": "尾張"
+                        },
+                        {
+                            "label": "所蔵機関（名称）",
+                            "value": "東京大学総合図書館-A00-6010-1-134"
+                        },
+                        {
+                            "label": "年号",
+                            "value": "安政５"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25280/canvas/p21#xywh=1021,527,3132,2476",
+                    "@type": "sc:Canvas",
+                    "label": "16-A00-6010-1-135",
+                    "metadata": [
+                        {
+                            "label": "和暦",
+                            "value": "安政6年1月15日"
+                        },
+                        {
+                            "label": "西暦コード",
+                            "value": "18590001015"
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "〔名府法応寺護国堂多門講中鬮引当人名簿〕"
+                        },
+                        {
+                            "label": "版種類",
+                            "value": "木版"
+                        },
+                        {
+                            "label": "数量",
+                            "value": "１枚"
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "16.0×20.2"
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "10"
+                        },
+                        {
+                            "label": "地名",
+                            "value": "尾張"
+                        },
+                        {
+                            "label": "所蔵機関（名称）",
+                            "value": "東京大学総合図書館-A00-6010-1-135"
+                        },
+                        {
+                            "label": "年号",
+                            "value": "安政６"
+                        },
+                        {
+                            "label": "月",
+                            "value": "1"
+                        },
+                        {
+                            "label": "日",
+                            "value": "15"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25280/canvas/p21#xywh=3513,3039,657,1259",
+                    "@type": "sc:Canvas",
+                    "label": "16-A00-6010-1-136",
+                    "metadata": [
+                        {
+                            "label": "和暦",
+                            "value": "安政5年"
+                        },
+                        {
+                            "label": "西暦コード",
+                            "value": "18580099099"
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "煉羊羹引札"
+                        },
+                        {
+                            "label": "版種類",
+                            "value": "木版"
+                        },
+                        {
+                            "label": "数量",
+                            "value": "１枚"
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "7.7×3.7"
+                        },
+                        {
+                            "label": "形態分類",
+                            "value": "Ｗ"
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "7"
+                        },
+                        {
+                            "label": "地名",
+                            "value": "尾張？"
+                        },
+                        {
+                            "label": "所蔵機関（名称）",
+                            "value": "東京大学総合図書館-A00-6010-1-136"
+                        },
+                        {
+                            "label": "年号",
+                            "value": "安政５"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25280/canvas/p21#xywh=2699,3169,763,975",
+                    "@type": "sc:Canvas",
+                    "label": "16-A00-6010-1-137",
+                    "metadata": [
+                        {
+                            "label": "和暦",
+                            "value": "安政5年"
+                        },
+                        {
+                            "label": "西暦コード",
+                            "value": "18580099099"
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "〔尾府巾下通江川町一瓢園製菓子屋引札〕"
+                        },
+                        {
+                            "label": "版種類",
+                            "value": "木版"
+                        },
+                        {
+                            "label": "数量",
+                            "value": "１枚"
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "7.7×4.2"
+                        },
+                        {
+                            "label": "形態分類",
+                            "value": "Ｗ"
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "7"
+                        },
+                        {
+                            "label": "地名",
+                            "value": "尾張"
+                        },
+                        {
+                            "label": "所蔵機関（名称）",
+                            "value": "東京大学総合図書館-A00-6010-1-137"
+                        },
+                        {
+                            "label": "年号",
+                            "value": "安政５"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25280/canvas/p21#xywh=1720,3051,1009,1262",
+                    "@type": "sc:Canvas",
+                    "label": "16-A00-6010-1-138",
+                    "metadata": [
+                        {
+                            "label": "和暦",
+                            "value": "安政5年"
+                        },
+                        {
+                            "label": "西暦コード",
+                            "value": "18580099099"
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "〔松前屋吉兵衛にほひ入りはみかき引札〕"
+                        },
+                        {
+                            "label": "版種類",
+                            "value": "木版"
+                        },
+                        {
+                            "label": "数量",
+                            "value": "１枚"
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "7.7×6.0　大極上々改とあり"
+                        },
+                        {
+                            "label": "形態分類",
+                            "value": "Ｗ"
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "7"
+                        },
+                        {
+                            "label": "地名",
+                            "value": "尾張"
+                        },
+                        {
+                            "label": "所蔵機関（名称）",
+                            "value": "東京大学総合図書館-A00-6010-1-138"
+                        },
+                        {
+                            "label": "年号",
+                            "value": "安政５"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25280/canvas/p21#xywh=885,3063,841,1105",
+                    "@type": "sc:Canvas",
+                    "label": "16-A00-6010-1-139",
+                    "metadata": [
+                        {
+                            "label": "和暦",
+                            "value": "安政5年"
+                        },
+                        {
+                            "label": "西暦コード",
+                            "value": "18580099099"
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "〔名古屋巾下大伝馬町杉本屋伝蔵菓子所引札〕"
+                        },
+                        {
+                            "label": "版種類",
+                            "value": "木版"
+                        },
+                        {
+                            "label": "数量",
+                            "value": "１枚"
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "6.4×4.7"
+                        },
+                        {
+                            "label": "形態分類",
+                            "value": "Ｗ"
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "7"
+                        },
+                        {
+                            "label": "地名",
+                            "value": "尾張"
+                        },
+                        {
+                            "label": "所蔵機関（名称）",
+                            "value": "東京大学総合図書館-A00-6010-1-139"
                         },
                         {
                             "label": "年号",
@@ -9087,6 +11653,120 @@
                         {
                             "label": "月",
                             "value": "3"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25280/canvas/p13#xywh=4194,427,1725,2786",
+                    "@type": "sc:Canvas",
+                    "label": "16-A00-6010-1-67_2",
+                    "metadata": [
+                        {
+                            "label": "和暦",
+                            "value": "安政6年1月"
+                        },
+                        {
+                            "label": "西暦コード",
+                            "value": "18590001099"
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "〔大阪竹田中角其他諸芝居類焼後正月より復興につき口伸〕"
+                        },
+                        {
+                            "label": "版種類",
+                            "value": "木版"
+                        },
+                        {
+                            "label": "数量",
+                            "value": "１枚"
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "17.0×24.2　角芝居東隣り芝居茶屋よど屋治兵衛・日本橋北詰西へ入宿屋金国堂連名のもの、６６（営業）を参照のこと、角芝居・中芝居の配役名あり"
+                        },
+                        {
+                            "label": "形態分類",
+                            "value": "Ｗ"
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "11"
+                        },
+                        {
+                            "label": "地名",
+                            "value": "大阪"
+                        },
+                        {
+                            "label": "所蔵機関（名称）",
+                            "value": "東京大学総合図書館-A00-6010-1-67"
+                        },
+                        {
+                            "label": "年号",
+                            "value": "安政６"
+                        },
+                        {
+                            "label": "月",
+                            "value": "1"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25280/canvas/p14#xywh=4347,434,1517,2993",
+                    "@type": "sc:Canvas",
+                    "label": "16-A00-6010-1-75_2",
+                    "metadata": [
+                        {
+                            "label": "和暦",
+                            "value": "安政5年8月22日"
+                        },
+                        {
+                            "label": "西暦コード",
+                            "value": "18580008022"
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "〔詩歌連俳書画会案内〕"
+                        },
+                        {
+                            "label": "版種類",
+                            "value": "木版"
+                        },
+                        {
+                            "label": "数量",
+                            "value": "１枚"
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "18.5×24.7　於尾州西御坊、「為先師法眼梅山翁追善」、会主梅仙若林興、執事雪香斉社中、展観集所古沢玉林堂（京）、松下園（大坂）、扇面亭（江戸）、松本政之助（長崎）、山田屋儀平（名古屋）、香米堂（名古屋）、社盟・和致芳・衆香林鼎鐫"
+                        },
+                        {
+                            "label": "形態分類",
+                            "value": "Ｗ"
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "10"
+                        },
+                        {
+                            "label": "地名",
+                            "value": "尾張"
+                        },
+                        {
+                            "label": "所蔵機関（名称）",
+                            "value": "東京大学総合図書館-A00-6010-1-75"
+                        },
+                        {
+                            "label": "年号",
+                            "value": "安政５"
+                        },
+                        {
+                            "label": "月",
+                            "value": "8"
+                        },
+                        {
+                            "label": "日",
+                            "value": "22"
                         }
                     ]
                 }
