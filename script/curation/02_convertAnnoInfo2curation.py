@@ -4,8 +4,10 @@ from bs4 import BeautifulSoup
 from hashlib import md5
 import csv
 
+
 def make_md5(s):
     return md5(s.encode('utf-8')).hexdigest()
+
 
 def get_list(path):
     data = {}
@@ -34,6 +36,7 @@ def get_list(path):
 
     return data
 
+
 def getInfoFromManifest(url):
     response = urllib.request.urlopen(url)
     response_body = response.read().decode("utf-8")
@@ -42,7 +45,7 @@ def getInfoFromManifest(url):
     anno_list_url = data["sequences"][0]["canvases"][0]["otherContent"][0]["@id"];
 
     image_url = data["sequences"][0]["canvases"][0]["images"][0]["resource"]["service"]["@id"];
-    image_url = image_url+"/full/600,/0/default.jpg"
+    image_url = image_url + "/full/600,/0/default.jpg"
 
     original_manifest = data["sequences"][0]["canvases"][0]["metadata"][0]["value"];
     source_manifest = collection_manifest.replace("http://", "https://")
@@ -72,9 +75,8 @@ def getInfoFromManifest(url):
         n = int(o_name.split("-")[4])
 
         members[n] = {}
-        members[n]["selection"] = canvas_id+"#"+selector
+        members[n]["selection"] = canvas_id + "#" + selector
         members[n]["label"] = o_name
-
 
 
 flg = True
@@ -91,7 +93,7 @@ prefix = "https://iiif.dl.itc.u-tokyo.ac.jp/omekac"
 list = get_list("data/list.csv")
 
 while flg:
-    url = prefix + "/api/items?item_type=18&search="+org_canvas+"&page=" + str(page)
+    url = prefix + "/api/items?item_type=18&search=" + org_canvas + "&page=" + str(page)
     print(url)
 
     page += 1
@@ -116,7 +118,7 @@ while flg:
                 if e["element"]["name"] == "On Canvas":
                     uuid = e["text"]
 
-                    tmp_url = prefix+"/api/items?search="+uuid
+                    tmp_url = prefix + "/api/items?search=" + uuid
 
                     response = urllib.request.urlopen(tmp_url)
                     response_body = response.read().decode("utf-8")
@@ -129,9 +131,9 @@ while flg:
                     id = obj_t["id"]
                     collection_id = obj_t["collection"]["id"]
 
-            manifest = prefix+"/oa/items/"+str(id)+"/manifest.json"
+            manifest = prefix + "/oa/items/" + str(id) + "/manifest.json"
 
-            collection_manifest = prefix+"/oa/collections/"+str(collection_id)+"/manifest.json"
+            collection_manifest = prefix + "/oa/collections/" + str(collection_id) + "/manifest.json"
 
             getInfoFromManifest(manifest)
 
@@ -140,17 +142,16 @@ while flg:
 
 print(all)
 
-
 with open('data/template.json') as f:
     df = json.load(f)
 
-df["@id"] = "https://utda.github.io/text/json/"+make_md5(org_manifest)+".json"
+df["@id"] = "https://utda.github.io/text/json/" + make_md5(org_manifest) + ".json"
 df["selections"] = []
 
 selection = {}
 df["selections"].append(selection)
 
-selection["@id"] = df["@id"]+"/range"+str(1)
+selection["@id"] = df["@id"] + "/range" + str(1)
 selection["@type"] = "sc:Range"
 selection["label"] = "Manual curation by IIIF Curation Viewer"
 
@@ -163,6 +164,7 @@ manifest["@type"] = "sc:Manifest"
 manifest["@label"] = org_label
 
 count = 1
+
 for key in sorted(members):
 
     member = {}
@@ -170,7 +172,6 @@ for key in sorted(members):
     selection["members"].append(member)
 
     tmp = members[key]
-
 
     member["@id"] = tmp["selection"]
     member["@type"] = "sc:Canvas"
@@ -190,6 +191,5 @@ for key in sorted(members):
 
     count += 1
 
-
-with open("../../docs/json/"+make_md5(org_manifest)+".json", 'w') as outfile:
+with open("../../docs/json/" + make_md5(org_manifest) + ".json", 'w') as outfile:
     json.dump(df, outfile, ensure_ascii=False, indent=4, sort_keys=True, separators=(',', ': '))
