@@ -3,35 +3,35 @@
         "http://iiif.io/api/presentation/2/context.json",
         "http://codh.rois.ac.jp/iiif/curation/1/context.json"
     ],
-    "@id": "https://utda.github.io/text/json/1bb7958bcd68a90f742fe244ea6b0c15.json",
+    "@id": "https://utda.github.io/text/json/f8defcdda53bfce9ef0d0c32a2d32b0b.json",
     "@type": "cr:Curation",
     "label": "Curating list",
     "selections": [
         {
-            "@id": "https://utda.github.io/text/json/1bb7958bcd68a90f742fe244ea6b0c15.json/range1",
+            "@id": "https://utda.github.io/text/json/f8defcdda53bfce9ef0d0c32a2d32b0b.json/range1",
             "@type": "sc:Range",
             "label": "Manual curation by IIIF Curation Viewer",
             "members": [
                 {
-                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25203/canvas/p2#xywh=4580,566,2022,3760",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25267/canvas/p2#xywh=3695,503,2586,4022",
                     "@type": "sc:Canvas",
-                    "label": "16-A00-6010-15-1",
+                    "label": "16-A00-6010-11-1",
                     "metadata": [
                         {
                             "label": "地名",
-                            "value": "駿河"
+                            "value": "江戸"
                         },
                         {
                             "label": "所蔵機関（名称）",
-                            "value": "東京大学総合図書館-A00-6010-15-1"
+                            "value": "東京大学総合図書館-A00-6010-11-1"
                         },
                         {
                             "label": "書誌事項",
-                            "value": "23.0×13.0　雨畑硯、水晶、富士石、瑪碯などの細工物及び「東海道中仙道道法早引道中記」販売の旨、東海道富士川西端岩淵玉藤堂硯屋長右衛門"
+                            "value": "25.3×16.5　東都本町２丁目今井製"
                         },
                         {
                             "label": "西暦コード",
-                            "value": "18760099099"
+                            "value": "18620199099"
                         },
                         {
                             "label": "内容分類",
@@ -39,7 +39,7 @@
                         },
                         {
                             "label": "年号",
-                            "value": "明治９"
+                            "value": "文久２？"
                         },
                         {
                             "label": "版種類",
@@ -51,11 +51,11 @@
                         },
                         {
                             "label": "和暦",
-                            "value": "明治9年"
+                            "value": "文久2?年"
                         },
                         {
                             "label": "タイトル",
-                            "value": "〔駿州岩淵硯屋長右衛門引札〕"
+                            "value": "雁皮紙御うちは引札"
                         },
                         {
                             "label": "形態分類",
@@ -64,25 +64,25 @@
                     ]
                 },
                 {
-                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25203/canvas/p2#xywh=3765,555,795,4357",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25267/canvas/p3#xywh=4518,720,1658,3730",
                     "@type": "sc:Canvas",
-                    "label": "16-A00-6010-15-2",
+                    "label": "16-A00-6010-11-2",
                     "metadata": [
                         {
                             "label": "地名",
-                            "value": "京都・大阪"
+                            "value": "大阪"
                         },
                         {
                             "label": "所蔵機関（名称）",
-                            "value": "東京大学総合図書館-A00-6010-15-2"
+                            "value": "東京大学総合図書館-A00-6010-11-2"
                         },
                         {
                             "label": "書誌事項",
-                            "value": "26.0×4.0　西京御影堂量阿弥製、大阪京橋２丁目店"
+                            "value": "22.6×10.3　大阪松屋町通り久宝寺橋北辻角大和屋重兵衛"
                         },
                         {
                             "label": "西暦コード",
-                            "value": "18760099099"
+                            "value": "18690199099"
                         },
                         {
                             "label": "内容分類",
@@ -90,7 +90,7 @@
                         },
                         {
                             "label": "年号",
-                            "value": "明治９"
+                            "value": "明治２？"
                         },
                         {
                             "label": "版種類",
@@ -102,11 +102,11 @@
                         },
                         {
                             "label": "和暦",
-                            "value": "明治9年"
+                            "value": "明治2?年"
                         },
                         {
                             "label": "タイトル",
-                            "value": "〔京都御影堂扇子引札〕"
+                            "value": "ゑのぐ染草所引札"
                         },
                         {
                             "label": "形態分類",
@@ -115,33 +115,33 @@
                     ]
                 },
                 {
-                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25203/canvas/p2#xywh=922,568,2670,2659",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25267/canvas/p3#xywh=1144,2044,3282,2302",
                     "@type": "sc:Canvas",
-                    "label": "16-A00-6010-15-3",
+                    "label": "16-A00-6010-11-3",
                     "metadata": [
                         {
-                            "label": "月",
-                            "value": "9"
-                        },
-                        {
                             "label": "地名",
-                            "value": "京都"
+                            "value": "江戸"
                         },
                         {
                             "label": "所蔵機関（名称）",
-                            "value": "東京大学総合図書館-A00-6010-15-3"
+                            "value": "東京大学総合図書館-A00-6010-11-3"
                         },
                         {
                             "label": "書誌事項",
-                            "value": "17.0×16.5　「明治９年９月京都府大属明石博高より来」とあり、京都紙商社の製品書付で、「１００枚、白紙、糊入、長サ１尺１寸巾８寸、８分６リン６毛、第３３」と墨で書込みあり"
+                            "value": "24.0×32.0　江戸下谷長者町製薬所堺屋儀兵衛謹製、かせ、しやく、つかへ、めまひ、せんき、せんしやく、ねひへ、くわくらん等"
                         },
                         {
                             "label": "西暦コード",
-                            "value": "18760009099"
+                            "value": "18620199099"
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "3"
                         },
                         {
                             "label": "年号",
-                            "value": "明治９"
+                            "value": "文久２？"
                         },
                         {
                             "label": "版種類",
@@ -153,46 +153,50 @@
                         },
                         {
                             "label": "和暦",
-                            "value": "明治9年9月"
+                            "value": "文久2?年"
                         },
                         {
                             "label": "タイトル",
-                            "value": "〔京都梅津パピールファブリク製品書付〕"
+                            "value": "諸病妙振出"
+                        },
+                        {
+                            "label": "形態分類",
+                            "value": "Ｗ"
                         }
                     ]
                 },
                 {
-                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25203/canvas/p2#xywh=987,3272,2651,1595",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25267/canvas/p4#xywh=5082,607,1128,3123",
                     "@type": "sc:Canvas",
-                    "label": "16-A00-6010-15-4",
+                    "label": "16-A00-6010-11-4",
                     "metadata": [
                         {
                             "label": "地名",
-                            "value": "東京"
+                            "value": "江戸？"
                         },
                         {
                             "label": "所蔵機関（名称）",
-                            "value": "東京大学総合図書館-A00-6010-15-4"
+                            "value": "東京大学総合図書館-A00-6010-11-4"
                         },
                         {
                             "label": "書誌事項",
-                            "value": "16.7×10.5　「御手紙１通、右正に落掌仕候也、田中様、水野」と墨書、但し受領証は銅版で印刷されているもの"
+                            "value": "19.0×7.0　蓬室とあり"
                         },
                         {
                             "label": "西暦コード",
-                            "value": "18760099099"
+                            "value": "18620199099"
                         },
                         {
                             "label": "内容分類",
-                            "value": "15"
+                            "value": "7"
                         },
                         {
                             "label": "年号",
-                            "value": "明治９"
+                            "value": "文久２？"
                         },
                         {
                             "label": "版種類",
-                            "value": "写本"
+                            "value": "木版"
                         },
                         {
                             "label": "数量",
@@ -200,18 +204,218 @@
                         },
                         {
                             "label": "和暦",
-                            "value": "明治9年"
+                            "value": "文久2?年"
                         },
                         {
                             "label": "タイトル",
-                            "value": "〔受領証〕"
+                            "value": "としのはな引札"
+                        },
+                        {
+                            "label": "形態分類",
+                            "value": "Ｗ"
                         }
                     ]
                 },
                 {
-                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25203/canvas/p3#xywh=3716,586,2803,4269",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25267/canvas/p4#xywh=3683,796,1348,1955",
                     "@type": "sc:Canvas",
-                    "label": "16-A00-6010-15-5",
+                    "label": "16-A00-6010-11-5",
+                    "metadata": [
+                        {
+                            "label": "地名",
+                            "value": "江戸"
+                        },
+                        {
+                            "label": "所蔵機関（名称）",
+                            "value": "東京大学総合図書館-A00-6010-11-5"
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "13.6×8.6　芝神明前花□屋、桃色極製"
+                        },
+                        {
+                            "label": "西暦コード",
+                            "value": "18620199099"
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "7"
+                        },
+                        {
+                            "label": "年号",
+                            "value": "文久２？"
+                        },
+                        {
+                            "label": "版種類",
+                            "value": "木版"
+                        },
+                        {
+                            "label": "数量",
+                            "value": "１枚"
+                        },
+                        {
+                            "label": "和暦",
+                            "value": "文久2?年"
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "かねはげぬ粉引札"
+                        },
+                        {
+                            "label": "形態分類",
+                            "value": "Ｗ"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25267/canvas/p4#xywh=3611,2843,1411,1153",
+                    "@type": "sc:Canvas",
+                    "label": "16-A00-6010-11-6",
+                    "metadata": [
+                        {
+                            "label": "地名",
+                            "value": "江戸？"
+                        },
+                        {
+                            "label": "所蔵機関（名称）",
+                            "value": "東京大学総合図書館-A00-6010-11-6"
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "6.6×8.5　うの花づけ、すがた漬、鯛きく漬などあり、店名住所なし、この引札の下に篆刻のものあるも内容不明"
+                        },
+                        {
+                            "label": "西暦コード",
+                            "value": "18620199099"
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "7"
+                        },
+                        {
+                            "label": "年号",
+                            "value": "文久２？"
+                        },
+                        {
+                            "label": "版種類",
+                            "value": "木版"
+                        },
+                        {
+                            "label": "数量",
+                            "value": "１枚"
+                        },
+                        {
+                            "label": "和暦",
+                            "value": "文久2?年"
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "〔御善五もくちらし鮓処引札〕"
+                        },
+                        {
+                            "label": "形態分類",
+                            "value": "Ｗ"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25267/canvas/p4#xywh=1501,830,2051,3390",
+                    "@type": "sc:Canvas",
+                    "label": "16-A00-6010-11-7",
+                    "metadata": [
+                        {
+                            "label": "地名",
+                            "value": "江戸？"
+                        },
+                        {
+                            "label": "所蔵機関（名称）",
+                            "value": "東京大学総合図書館-A00-6010-11-7"
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "23.3×11.0"
+                        },
+                        {
+                            "label": "西暦コード",
+                            "value": "18620199099"
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "7"
+                        },
+                        {
+                            "label": "年号",
+                            "value": "文久２？"
+                        },
+                        {
+                            "label": "版種類",
+                            "value": "木版"
+                        },
+                        {
+                            "label": "数量",
+                            "value": "１枚"
+                        },
+                        {
+                            "label": "和暦",
+                            "value": "文久2?年"
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "〔おはぐろつけやう〕"
+                        },
+                        {
+                            "label": "形態分類",
+                            "value": "Ｗ"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25267/canvas/p5#xywh=5458,628,660,3076",
+                    "@type": "sc:Canvas",
+                    "label": "16-A00-6010-11-8",
+                    "metadata": [
+                        {
+                            "label": "地名",
+                            "value": "江戸"
+                        },
+                        {
+                            "label": "所蔵機関（名称）",
+                            "value": "東京大学総合図書館-A00-6010-11-8"
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "18.0×3.2　生兵教練部、百羅屯教練部、技隊龍教練部と下に３行分ち書あり"
+                        },
+                        {
+                            "label": "西暦コード",
+                            "value": "18550099099"
+                        },
+                        {
+                            "label": "年号",
+                            "value": "安政２"
+                        },
+                        {
+                            "label": "版種類",
+                            "value": "木版"
+                        },
+                        {
+                            "label": "数量",
+                            "value": "１枚"
+                        },
+                        {
+                            "label": "和暦",
+                            "value": "安政2年"
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "和蘭官軍歩操軌範全図題箋"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25267/canvas/p5#xywh=1331,1490,4127,2691",
+                    "@type": "sc:Canvas",
+                    "label": "16-A00-6010-11-9",
                     "metadata": [
                         {
                             "label": "月",
@@ -219,372 +423,19 @@
                         },
                         {
                             "label": "地名",
-                            "value": "伊勢"
+                            "value": "山城"
                         },
                         {
                             "label": "所蔵機関（名称）",
-                            "value": "東京大学総合図書館-A00-6010-15-5"
+                            "value": "東京大学総合図書館-A00-6010-11-9"
                         },
                         {
                             "label": "書誌事項",
-                            "value": "26.0×17.0　勢州四日市廻漕会社黒川彦左衛門、東京小川町今川小路田中芳男宛、丹波修治殿出、菰包小樽１つ、貫効丸便、摺物に書込形式"
+                            "value": "25.0×31.0　１月５日迄の大火を記す"
                         },
                         {
                             "label": "西暦コード",
-                            "value": "18750001028"
-                        },
-                        {
-                            "label": "内容分類",
-                            "value": "7"
-                        },
-                        {
-                            "label": "年号",
-                            "value": "明治８"
-                        },
-                        {
-                            "label": "版種類",
-                            "value": "木版"
-                        },
-                        {
-                            "label": "数量",
-                            "value": "１枚"
-                        },
-                        {
-                            "label": "和暦",
-                            "value": "明治8年1月28日"
-                        },
-                        {
-                            "label": "タイトル",
-                            "value": "蒸気郵船送り状"
-                        },
-                        {
-                            "label": "日",
-                            "value": "28"
-                        }
-                    ]
-                },
-                {
-                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25203/canvas/p3#xywh=871,538,2774,4299",
-                    "@type": "sc:Canvas",
-                    "label": "16-A00-6010-15-6",
-                    "metadata": [
-                        {
-                            "label": "月",
-                            "value": "11"
-                        },
-                        {
-                            "label": "地名",
-                            "value": "伊勢"
-                        },
-                        {
-                            "label": "所蔵機関（名称）",
-                            "value": "東京大学総合図書館-A00-6010-15-6"
-                        },
-                        {
-                            "label": "書誌事項",
-                            "value": "26.5×16.5　勢州四日市廻漕会社黒川彦左衛門、東京今川小路２丁目田中芳男宛、岡田正堅出、包１つ、清渚丸便、摺物に書込形式"
-                        },
-                        {
-                            "label": "西暦コード",
-                            "value": "18750011023"
-                        },
-                        {
-                            "label": "内容分類",
-                            "value": "7"
-                        },
-                        {
-                            "label": "年号",
-                            "value": "明治８"
-                        },
-                        {
-                            "label": "版種類",
-                            "value": "木版"
-                        },
-                        {
-                            "label": "数量",
-                            "value": "１枚"
-                        },
-                        {
-                            "label": "和暦",
-                            "value": "明治8年11月23日"
-                        },
-                        {
-                            "label": "タイトル",
-                            "value": "蒸気郵船送り状"
-                        },
-                        {
-                            "label": "日",
-                            "value": "23"
-                        }
-                    ]
-                },
-                {
-                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25203/canvas/p4#xywh=3882,1153,2559,3742",
-                    "@type": "sc:Canvas",
-                    "label": "16-A00-6010-15-7",
-                    "metadata": [
-                        {
-                            "label": "地名",
-                            "value": "東京"
-                        },
-                        {
-                            "label": "所蔵機関（名称）",
-                            "value": "東京大学総合図書館-A00-6010-15-7"
-                        },
-                        {
-                            "label": "書誌事項",
-                            "value": "22.6×14.6　日本橋通一出店京橋銀座２町目万屋孫兵衛"
-                        },
-                        {
-                            "label": "西暦コード",
-                            "value": "18760099099"
-                        },
-                        {
-                            "label": "内容分類",
-                            "value": "7"
-                        },
-                        {
-                            "label": "年号",
-                            "value": "明治９"
-                        },
-                        {
-                            "label": "版種類",
-                            "value": "木版"
-                        },
-                        {
-                            "label": "数量",
-                            "value": "１枚"
-                        },
-                        {
-                            "label": "和暦",
-                            "value": "明治9年"
-                        },
-                        {
-                            "label": "タイトル",
-                            "value": "〔地本絵双子問屋万屋孫兵衛引札〕"
-                        },
-                        {
-                            "label": "形態分類",
-                            "value": "Ｗ"
-                        }
-                    ]
-                },
-                {
-                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25203/canvas/p4#xywh=4705,566,1582,622",
-                    "@type": "sc:Canvas",
-                    "label": "16-A00-6010-15-8",
-                    "metadata": [
-                        {
-                            "label": "地名",
-                            "value": "東京"
-                        },
-                        {
-                            "label": "所蔵機関（名称）",
-                            "value": "東京大学総合図書館-A00-6010-15-8"
-                        },
-                        {
-                            "label": "書誌事項",
-                            "value": "3.2×8.8　「１０月１２日出勤」とあり"
-                        },
-                        {
-                            "label": "西暦コード",
-                            "value": "18750199099"
-                        },
-                        {
-                            "label": "内容分類",
-                            "value": "15"
-                        },
-                        {
-                            "label": "年号",
-                            "value": "明治８？"
-                        },
-                        {
-                            "label": "版種類",
-                            "value": "活版"
-                        },
-                        {
-                            "label": "数量",
-                            "value": "１枚"
-                        },
-                        {
-                            "label": "和暦",
-                            "value": "明治8?年"
-                        },
-                        {
-                            "label": "タイトル",
-                            "value": "〔ＴＵＪＩＳＩＭＡ　ＴＵＮＥＯＫＩ名刺〕"
-                        }
-                    ]
-                },
-                {
-                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25203/canvas/p6#xywh=956,1700,2300,3181",
-                    "@type": "sc:Canvas",
-                    "label": "16-A00-6010-15-11",
-                    "metadata": [
-                        {
-                            "label": "地名",
-                            "value": "東京"
-                        },
-                        {
-                            "label": "所蔵機関（名称）",
-                            "value": "東京大学総合図書館-A00-6010-15-11"
-                        },
-                        {
-                            "label": "書誌事項",
-                            "value": "19.8×14.0　静錦堂、神田須田町、「御摺物御好次第」とあり"
-                        },
-                        {
-                            "label": "西暦コード",
-                            "value": "18760099099"
-                        },
-                        {
-                            "label": "内容分類",
-                            "value": "7"
-                        },
-                        {
-                            "label": "年号",
-                            "value": "明治９"
-                        },
-                        {
-                            "label": "版種類",
-                            "value": "木版"
-                        },
-                        {
-                            "label": "数量",
-                            "value": "１枚"
-                        },
-                        {
-                            "label": "和暦",
-                            "value": "明治9年"
-                        },
-                        {
-                            "label": "タイトル",
-                            "value": "〔地本錦絵草紙問屋沢村屋清吉引札〕"
-                        }
-                    ]
-                },
-                {
-                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25203/canvas/p6#xywh=875,898,2813,774",
-                    "@type": "sc:Canvas",
-                    "label": "16-A00-6010-15-12",
-                    "metadata": [
-                        {
-                            "label": "地名",
-                            "value": "備中"
-                        },
-                        {
-                            "label": "所蔵機関（名称）",
-                            "value": "東京大学総合図書館-A00-6010-15-12"
-                        },
-                        {
-                            "label": "書誌事項",
-                            "value": "17.0×4.8　備中矢掛駅名産本家製村田屋"
-                        },
-                        {
-                            "label": "西暦コード",
-                            "value": "18760099099"
-                        },
-                        {
-                            "label": "内容分類",
-                            "value": "7"
-                        },
-                        {
-                            "label": "年号",
-                            "value": "明治９"
-                        },
-                        {
-                            "label": "版種類",
-                            "value": "木版"
-                        },
-                        {
-                            "label": "数量",
-                            "value": "１枚"
-                        },
-                        {
-                            "label": "和暦",
-                            "value": "明治9年"
-                        },
-                        {
-                            "label": "タイトル",
-                            "value": "御用御上りゆべし引札"
-                        },
-                        {
-                            "label": "形態分類",
-                            "value": "Ｗ"
-                        }
-                    ]
-                },
-                {
-                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25203/canvas/p7#xywh=3855,831,2604,3993",
-                    "@type": "sc:Canvas",
-                    "label": "16-A00-6010-15-13",
-                    "metadata": [
-                        {
-                            "label": "地名",
-                            "value": "東京"
-                        },
-                        {
-                            "label": "所蔵機関（名称）",
-                            "value": "東京大学総合図書館-A00-6010-15-13"
-                        },
-                        {
-                            "label": "書誌事項",
-                            "value": "16.5×24.0　御養生牛肉所、御進物牛肉折詰、牛肉つくだ煮、しぐれ、ぶた、西洋酒品々"
-                        },
-                        {
-                            "label": "西暦コード",
-                            "value": "18760099099"
-                        },
-                        {
-                            "label": "内容分類",
-                            "value": "7"
-                        },
-                        {
-                            "label": "年号",
-                            "value": "明治９"
-                        },
-                        {
-                            "label": "版種類",
-                            "value": "木版"
-                        },
-                        {
-                            "label": "数量",
-                            "value": "１枚"
-                        },
-                        {
-                            "label": "和暦",
-                            "value": "明治9年"
-                        },
-                        {
-                            "label": "タイトル",
-                            "value": "〔銀座１丁目吉川肉店引札〕"
-                        },
-                        {
-                            "label": "形態分類",
-                            "value": "Ｗ"
-                        }
-                    ]
-                },
-                {
-                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25203/canvas/p7#xywh=1085,1483,2529,3258",
-                    "@type": "sc:Canvas",
-                    "label": "16-A00-6010-15-14",
-                    "metadata": [
-                        {
-                            "label": "地名",
-                            "value": "東京"
-                        },
-                        {
-                            "label": "所蔵機関（名称）",
-                            "value": "東京大学総合図書館-A00-6010-15-14"
-                        },
-                        {
-                            "label": "書誌事項",
-                            "value": "15.5×20.0　学業捷径８部、「６月３０日」とあり、摺物に書込形式"
-                        },
-                        {
-                            "label": "西暦コード",
-                            "value": "18760199099"
+                            "value": "18680001099"
                         },
                         {
                             "label": "内容分類",
@@ -592,7 +443,7 @@
                         },
                         {
                             "label": "年号",
-                            "value": "明治９？"
+                            "value": "明治１"
                         },
                         {
                             "label": "版種類",
@@ -604,18 +455,171 @@
                         },
                         {
                             "label": "和暦",
-                            "value": "明治9?年"
+                            "value": "明治1年1月"
                         },
                         {
                             "label": "タイトル",
-                            "value": "〔勧業寮出張所受領証〕"
+                            "value": "城州伏見其外所々合戦出火の図"
                         }
                     ]
                 },
                 {
-                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25203/canvas/p8#xywh=3230,590,3224,4244",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25267/canvas/p6#xywh=1010,600,5189,3925",
                     "@type": "sc:Canvas",
-                    "label": "16-A00-6010-15-16",
+                    "label": "16-A00-6010-11-10",
+                    "metadata": [
+                        {
+                            "label": "地名",
+                            "value": "江戸"
+                        },
+                        {
+                            "label": "所蔵機関（名称）",
+                            "value": "東京大学総合図書館-A00-6010-11-10"
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "24.3×32.2　「天保１５辰年直下ケ改板」とあり、「宇治信楽諸国御茶所」とあり"
+                        },
+                        {
+                            "label": "西暦コード",
+                            "value": "18440099099"
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "7"
+                        },
+                        {
+                            "label": "年号",
+                            "value": "弘化１"
+                        },
+                        {
+                            "label": "版種類",
+                            "value": "木版"
+                        },
+                        {
+                            "label": "数量",
+                            "value": "１枚"
+                        },
+                        {
+                            "label": "和暦",
+                            "value": "弘化1年"
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "〔日本橋通本石町十軒店八幡屋庄右衛門茶値付〕"
+                        },
+                        {
+                            "label": "形態分類",
+                            "value": "Ｗ"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25267/canvas/p7#xywh=972,563,5264,3947",
+                    "@type": "sc:Canvas",
+                    "label": "16-A00-6010-11-11",
+                    "metadata": [
+                        {
+                            "label": "地名",
+                            "value": "大阪・信濃"
+                        },
+                        {
+                            "label": "所蔵機関（名称）",
+                            "value": "東京大学総合図書館-A00-6010-11-11"
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "25.0×32.5　本家調合所大坂心斎橋南に３丁目南東角吉文字屋源十郎、延寿堂唐斎鑑製、国元弘所松本本町５丁目米屋弥兵衛、飯田本町２丁目□屋文治郎"
+                        },
+                        {
+                            "label": "西暦コード",
+                            "value": "18620199099"
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "3"
+                        },
+                        {
+                            "label": "年号",
+                            "value": "文久２？"
+                        },
+                        {
+                            "label": "版種類",
+                            "value": "木版"
+                        },
+                        {
+                            "label": "数量",
+                            "value": "１枚"
+                        },
+                        {
+                            "label": "和暦",
+                            "value": "文久2?年"
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "天寿補元丹引札"
+                        },
+                        {
+                            "label": "形態分類",
+                            "value": "Ｗ"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25267/canvas/p8#xywh=1152,555,4965,3962",
+                    "@type": "sc:Canvas",
+                    "label": "16-A00-6010-11-12",
+                    "metadata": [
+                        {
+                            "label": "地名",
+                            "value": "伊賀・信濃"
+                        },
+                        {
+                            "label": "所蔵機関（名称）",
+                            "value": "東京大学総合図書館-A00-6010-11-12"
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "23.5×30.3　「紀州御免小児薬王ねつさましむしおさへ引止薬」、「紀州御免大人薬王粒甲丹一名ねむり薬」とあり、後者の功能には、かん、しやく、せんしやく、りういん、かんしやう、しんつう、きむつかしとあり、本家調合所伊賀国四日市泊里相原秀八郎、取次飯田池田町綿屋"
+                        },
+                        {
+                            "label": "西暦コード",
+                            "value": "18620199099"
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "3"
+                        },
+                        {
+                            "label": "年号",
+                            "value": "文久２？"
+                        },
+                        {
+                            "label": "版種類",
+                            "value": "木版"
+                        },
+                        {
+                            "label": "数量",
+                            "value": "１枚"
+                        },
+                        {
+                            "label": "和暦",
+                            "value": "文久2?年"
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "引止薬・粒甲丹引札"
+                        },
+                        {
+                            "label": "形態分類",
+                            "value": "Ｗ"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25267/canvas/p9#xywh=1159,750,4905,3745",
+                    "@type": "sc:Canvas",
+                    "label": "16-A00-6010-11-13",
                     "metadata": [
                         {
                             "label": "月",
@@ -623,27 +627,27 @@
                         },
                         {
                             "label": "地名",
-                            "value": "伊勢"
+                            "value": "江戸"
                         },
                         {
                             "label": "所蔵機関（名称）",
-                            "value": "東京大学総合図書館-A00-6010-15-16"
+                            "value": "東京大学総合図書館-A00-6010-11-13"
                         },
                         {
                             "label": "書誌事項",
-                            "value": "27.5×20.5　四日市廻漕会社黒川彦左衛門、東京小川町今川小路田中芳男宛、丹波脩冶出、貫効丸便"
+                            "value": "22.5×29.5"
                         },
                         {
                             "label": "西暦コード",
-                            "value": "18760003028"
+                            "value": "18640003013"
                         },
                         {
                             "label": "内容分類",
-                            "value": "7"
+                            "value": "1"
                         },
                         {
                             "label": "年号",
-                            "value": "明治９"
+                            "value": "元治１"
                         },
                         {
                             "label": "版種類",
@@ -655,46 +659,50 @@
                         },
                         {
                             "label": "和暦",
-                            "value": "明治9年3月28日"
+                            "value": "元治1年3月13日"
                         },
                         {
                             "label": "タイトル",
-                            "value": "送り状之事"
+                            "value": "〔日本はしせ戸物丁辺より出火摺物〕"
                         },
                         {
                             "label": "日",
-                            "value": "28"
+                            "value": "13"
                         }
                     ]
                 },
                 {
-                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25203/canvas/p8#xywh=890,592,2332,4257",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25267/canvas/p10#xywh=1279,742,4748,3753",
                     "@type": "sc:Canvas",
-                    "label": "16-A00-6010-15-17",
+                    "label": "16-A00-6010-11-14",
                     "metadata": [
                         {
+                            "label": "月",
+                            "value": "6"
+                        },
+                        {
                             "label": "地名",
-                            "value": "東京"
+                            "value": "江戸"
                         },
                         {
                             "label": "所蔵機関（名称）",
-                            "value": "東京大学総合図書館-A00-6010-15-17"
+                            "value": "東京大学総合図書館-A00-6010-11-14"
                         },
                         {
                             "label": "書誌事項",
-                            "value": "25.0×14.0　水晶、阿蘭陀、新石町、「御眼鏡の儀は万一御目に合不申候時は何ヶ度なり共御取替申上候」"
+                            "value": "21.5×28.0"
                         },
                         {
                             "label": "西暦コード",
-                            "value": "18760099099"
+                            "value": "18630006002"
                         },
                         {
                             "label": "内容分類",
-                            "value": "7"
+                            "value": "1"
                         },
                         {
                             "label": "年号",
-                            "value": "明治９"
+                            "value": "文久３"
                         },
                         {
                             "label": "版種類",
@@ -706,11 +714,62 @@
                         },
                         {
                             "label": "和暦",
-                            "value": "明治9年"
+                            "value": "文久3年6月2日"
                         },
                         {
                             "label": "タイトル",
-                            "value": "〔神田太田屋弥兵衛眼鏡引札〕"
+                            "value": "〔飯倉５丁めより出火摺物〕"
+                        },
+                        {
+                            "label": "日",
+                            "value": "2"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25267/canvas/p11#xywh=1189,555,4942,3970",
+                    "@type": "sc:Canvas",
+                    "label": "16-A00-6010-11-15",
+                    "metadata": [
+                        {
+                            "label": "地名",
+                            "value": "土佐"
+                        },
+                        {
+                            "label": "所蔵機関（名称）",
+                            "value": "東京大学総合図書館-A00-6010-11-15"
+                        },
+                        {
+                            "label": "書誌事項",
+                            "value": "24.0×29.5　土州須崎中野屋辰三郎仕入"
+                        },
+                        {
+                            "label": "西暦コード",
+                            "value": "18620199099"
+                        },
+                        {
+                            "label": "内容分類",
+                            "value": "7"
+                        },
+                        {
+                            "label": "年号",
+                            "value": "文久２？"
+                        },
+                        {
+                            "label": "版種類",
+                            "value": "木版"
+                        },
+                        {
+                            "label": "数量",
+                            "value": "１枚"
+                        },
+                        {
+                            "label": "和暦",
+                            "value": "文久2?年"
+                        },
+                        {
+                            "label": "タイトル",
+                            "value": "破祓一枚撰飛切引札"
                         },
                         {
                             "label": "形態分類",
@@ -720,8 +779,8 @@
                 }
             ],
             "within": {
-                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25203/manifest",
-                "@label": "捃拾帖 十五",
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25267/manifest",
+                "@label": "捃拾帖 十一",
                 "@type": "sc:Manifest"
             }
         }
