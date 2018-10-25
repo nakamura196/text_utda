@@ -72,7 +72,6 @@ def getInfoFromManifest(url, collection_manifest, members):
 
         manfiest = resource["on"][0]["within"]["@id"]
 
-        print(o_name)
         n = int(o_name.split("-")[4])
 
         members[n] = {}
@@ -84,15 +83,9 @@ def exec2collection(org_canvas, org_label, org_manifest):
     flg = True
     page = 1
 
-    # org_canvas = "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25280/canvas/"
-    # org_label = "捃拾帖 一"
-    # org_manifest = "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/25280/manifest"
-
     members = {}
 
     prefix = "https://diyhistory.org/public/omekac"
-
-    # list = get_list("data/list.csv")
 
     while flg:
         url = prefix + "/api/items?item_type=18&search=" + org_canvas + "&page=" + str(page)
@@ -110,12 +103,8 @@ def exec2collection(org_canvas, org_label, org_manifest):
                 # 各アイテム
                 obj = data[i]
 
-                # print(obj)
-
                 element_texts = obj["element_texts"]
                 for e in element_texts:
-
-                    # print(e)
 
                     if e["element"]["name"] == "On Canvas":
                         uuid = e["text"]
@@ -142,8 +131,6 @@ def exec2collection(org_canvas, org_label, org_manifest):
         else:
             flg = False
 
-    print(all)
-
     with open('data/template.json') as f:
         df = json.load(f)
 
@@ -166,34 +153,38 @@ def exec2collection(org_canvas, org_label, org_manifest):
     manifest["@label"] = org_label
 
     count = 1
-    for key in sorted(members):
 
-        member = {}
+    # 空でない場合
+    if members:
 
-        selection["members"].append(member)
+        for key in sorted(members):
 
-        tmp = members[key]
+            member = {}
 
-        member["@id"] = tmp["selection"]
-        member["@type"] = "sc:Canvas"
-        member["label"] = tmp["label"]
+            selection["members"].append(member)
 
-        meta = list[member["label"]]
+            tmp = members[key]
 
-        metadata = []
-        member["metadata"] = metadata
+            member["@id"] = tmp["selection"]
+            member["@type"] = "sc:Canvas"
+            member["label"] = tmp["label"]
 
-        for key in meta:
-            if meta[key] != "":
-                obj = {}
-                metadata.append(obj)
-                obj["label"] = key
-                obj["value"] = meta[key]
+            meta = list[member["label"]]
 
-        count += 1
+            metadata = []
+            member["metadata"] = metadata
 
-    with open("../../docs/json/" + tmp["label"].split("-")[3].zfill(4) + ".json", 'w') as outfile:
-        json.dump(df, outfile, ensure_ascii=False, indent=4, sort_keys=True, separators=(',', ': '))
+            for key in meta:
+                if meta[key] != "":
+                    obj = {}
+                    metadata.append(obj)
+                    obj["label"] = key
+                    obj["value"] = meta[key]
+
+            count += 1
+
+        with open("../../docs/json/" + tmp["label"].split("-")[3].zfill(4) + ".json", 'w') as outfile:
+            json.dump(df, outfile, ensure_ascii=False, indent=4, sort_keys=True, separators=(',', ': '))
 
 
 cflg = True
@@ -215,8 +206,6 @@ while cflg:
         for i in range(len(cdata)):
             # 各アイテム
             obj = cdata[i]
-
-            # print(obj)
 
             org_label = ""
             org_canvas = ""
